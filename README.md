@@ -1,7 +1,10 @@
+# 1201更新
+**ポッキー,QuizKnock,カプリティオチャンネル**を追加しました。
+
 # YouTuber dataset
 **YouTuberのデータセット**を保管している場所です。  
 各YouTuberの「**動画の投稿日**,**動画のタイトル**,**動画の再生回数**」をCSVファイルで保存しています  
-**※データは2021/11/28~2021/11/30のものです**
+**※データは2021/11/28~2021/12/01のものです**
 
 # データセットのあるYouTuber
 
@@ -15,6 +18,9 @@
 1. [フィッシャーズ](https://www.youtube.com/c/MASAIandHamzael) (fischers.csv)
 1. [taiga0818](https://www.youtube.com/user/taiga0818) (taiga0818.csv)
 1. [enakimura](https://www.youtube.com/user/enakimura) (enakimura.csv)
+1. [ポッキー](https://www.youtube.com/c/pockysweets) (pokey.csv)
+1. [QuizKnock](https://www.youtube.com/c/QuizKnock) (qk.csv)
+1. [カプリティオチャンネル](https://www.youtube.com/c/capriccio) (capriccio.csv)
 
 # How To Use
 こういう感じで使えると思います。  
