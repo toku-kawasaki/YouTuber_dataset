@@ -1,20 +1,20 @@
 # YouTuber dataset
 **YouTuberのデータセット**を保管している場所です。  
-各YouTuberの「**動画の投稿日**,**動画のタイトル**,**動画の再生回数**」をCSVファイルで保存しています
+各YouTuberの「**動画の投稿日**,**動画のタイトル**,**動画の再生回数**」をCSVファイルで保存しています  
 **※データは2021/11/28~2021/11/30のものです**
 
 # データセットのあるYouTuber
 
-1. [HIKAKIN](https://www.youtube.com/user/HIKAKIN)  
-1. [HikakinTV](https://www.youtube.com/user/HikakinTV)  
-1. [SeikinTV](https://www.youtube.com/user/SeikinTV)  
-1. [せんももあいしー](https://www.youtube.com/c/oyabakatousan)  
-1. [東海オンエア](https://www.youtube.com/user/TokaiOnAir)  
-1. [megwin](https://www.youtube.com/c/MegwinTVOfficial)  
-1. [瀬戸弘司](https://www.youtube.com/c/Kojiseto)  
-1. [フィッシャーズ](https://www.youtube.com/c/MASAIandHamzael)  
-1. [taiga0818](https://www.youtube.com/user/taiga0818)  
-1. [enakimura](https://www.youtube.com/user/enakimura)  
+1. [HIKAKIN](https://www.youtube.com/user/HIKAKIN) (hikakin.csv)
+1. [HikakinTV](https://www.youtube.com/user/HikakinTV) (hikakinTV.csv)
+1. [SeikinTV](https://www.youtube.com/user/SeikinTV) (seikin.csv)
+1. [せんももあいしー](https://www.youtube.com/c/oyabakatousan) (senmomo.csv)
+1. [東海オンエア](https://www.youtube.com/user/TokaiOnAir) (tokai.csv)
+1. [megwin](https://www.youtube.com/c/MegwinTVOfficial) (megwin.csv)
+1. [瀬戸弘司](https://www.youtube.com/c/Kojiseto) (setokoji.csv)
+1. [フィッシャーズ](https://www.youtube.com/c/MASAIandHamzael) (fischers.csv)
+1. [taiga0818](https://www.youtube.com/user/taiga0818) (taiga0818.csv)
+1. [enakimura](https://www.youtube.com/user/enakimura) (enakimura.csv)
 
 # How To Use
 こういう感じで使えると思います。  
@@ -24,4 +24,5 @@
 
 etc..
 
-他に追加するものができたら追記していきます。
+他に追加してほしいYouTuberがあればissueで報告してください。
+海外のYouTuberのデータセットも増やしていきたいと思います
