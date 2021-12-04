@@ -1,21 +1,22 @@
-# 1202更新
-- **HikakinGames,HikakinBlog**を追加しました。
-- Hikakin関連をまとめました
+# 1204更新
+- **東海オンエアの控え室**を追加しました。
+- 東海オンエア関連をまとめました
 
 # YouTuber dataset
 **YouTuberのデータセット**を保管している場所です。  
 各YouTuberの「**動画の投稿日**,**動画のタイトル**,**動画の再生回数**」をCSVファイルで保存しています  
-**※データは2021/11/28~2021/12/02のものです**
+**※データは2021/11/28~2021/12/04のものです**
 
 # データセットのあるYouTuber
 
 1. [HIKAKIN](https://www.youtube.com/user/HIKAKIN) (hikakin.csv)
-1. [HikakinTV](https://www.youtube.com/user/HikakinTV) (hikakinTV.csv)
-1. [HikakinGames](https://www.youtube.com/user/HikakinGames) (hikakin_games.csv)
-1. [HikakinBlog](https://www.youtube.com/user/HikakinBlog) (hikakin_blog.csv)
+	1. [HikakinTV](https://www.youtube.com/user/HikakinTV) (hikakinTV.csv)
+	1. [HikakinGames](https://www.youtube.com/user/HikakinGames) (hikakin_games.csv)
+	1. [HikakinBlog](https://www.youtube.com/user/HikakinBlog) (hikakin_blog.csv)
 1. [SeikinTV](https://www.youtube.com/user/SeikinTV) (seikin.csv)
 1. [せんももあいしー](https://www.youtube.com/c/oyabakatousan) (senmomo.csv)
 1. [東海オンエア](https://www.youtube.com/user/TokaiOnAir) (tokai.csv)
+	1. [東海オンエアの控え室](https://www.youtube.com/user/TokaiHikaesitsu) (tokai_hikaeshitu.csv)
 1. [megwin](https://www.youtube.com/c/MegwinTVOfficial) (megwin.csv)
 1. [瀬戸弘司](https://www.youtube.com/c/Kojiseto) (setokoji.csv)
 1. [フィッシャーズ](https://www.youtube.com/c/MASAIandHamzael) (fischers.csv)
